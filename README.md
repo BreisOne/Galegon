@@ -1,3 +1,5 @@
 # Galegon
 Plataforma pensada para desarrollar el comercio local en Galicia. 
-Galegon.eu
+
+Ver avances del proyecto en:
+<a href="https://galegon.eu/">Galegon.eu</a>
